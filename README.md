@@ -4,10 +4,8 @@
 A proof-of-concept application for an online jewelry shop, integrating an Access database with an Excel-based front end and VBA Middleware. Features include order management, customer management, and reports such as top products and sales analysis.
 
 ## Project Files
-
 1. **OnlineJewelryShop.xlsx**:
    - The Excel workbook with VBA macros for order management, reports, and database interactions.
-
 2. **OnlineJewelryStoreDatabase.accdb**:
    - The Access database containing tables for customers, products, and orders.
 
@@ -20,6 +18,12 @@ A proof-of-concept application for an online jewelry shop, integrating an Access
 3. **Reports**:
    - View the top 5 products by total revenue.
    - Analyze monthly sales trends via pivot tables.
+
+## Setup Instructions
+1. Download all files from the repository.
+2. Place `OnlineJewelryShop.xlsx` and `OnlineJewelryStoreDatabase.accdb` in the same folder.
+3. Open `OnlineJewelryShop.xlsx` in Microsoft Excel.
+4. Enable macros to use the application features.
 
 ## Requirements
 1. **Software**:
