@@ -7,7 +7,7 @@ A proof-of-concept application for an online jewellery shop, integrating an Acce
 1. **OnlineJewelleryShop.xlsx**:
    - The Excel workbook with VBA macros for order management, reports, and database interactions.
 2. **OnlineJewelleryStoreDatabase.accdb**:
-   - The Access database containing tables for customers, products, and orders.
+   - The Access database containing tables for customers, products, and orders and queries for top customers, monthly sales and total revenue by product categories.
 
 ## Features
 1. **Order Management**:
@@ -35,9 +35,4 @@ A proof-of-concept application for an online jewellery shop, integrating an Acce
 3. **Files**:
    - The Excel workbook (`OnlineJewelleryShop.xlsx`)
    - The Access database (`OnlineJewelleryStoreDatabase.accdb`)
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Yin-Min-Aung/OnlineJewelleryShopApp.git
 
